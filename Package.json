@@ -1,26 +1,26 @@
 {
-    "name": "github-profilePDF-generator",
-    "version": "1.0.0",
-    "description": "",
-    "main": "index.js",
-    "scripts": {
-      "test": "echo \"Error: no test specified\" && exit 1"
-    },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/Normanlei/github-profilePDF-generator.git"
-    },
-    "keywords": [],
-    "author": "",
-    "license": "ISC",
-    "bugs": {
-      "url": "https://github.com/Normanlei/github-profilePDF-generator/issues"
-    },
-    "homepage": "https://github.com/Normanlei/github-profilePDF-generator#readme",
-    "dependencies": {
-      "axios": "^0.19.0",
-      "inquirer": "^7.0.0",
-      "puppeteer": "^2.0.0",
-      "util": "^0.12.1"
-    }
+  "name": "Homework9",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jeretc79/Homework9"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jeretc79/Homework9/issues"
+  },
+  "homepage": "https://github.com/Jeretc79/Homework9#readme",
+  "dependencies": {
+    "axios": "^0.19.0",
+    "inquirer": "^7.0.3",
+    "puppeteer": "^2.0.0",
+    "util": "^0.12.1"
   }
+}
