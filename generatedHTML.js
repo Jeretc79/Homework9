@@ -174,7 +174,7 @@ const colors = {
                 <img src="${data.avatar_url}">
                 <h1>Hi!</h1>
                 <h2>My name is ${data.name}</h2>
-                <h6>Currently @ Trilogy Education Services</h6>
+                <h6>Currently @ U of O Bootcamp</h6>
                 <ul class="links-nav">
                     <li class="nav-link"><a href="https://www.google.com/maps/search/?api=1&query=${data.location}" target="_blank"><i class="fas fa-location-arrow"></i>&nbsp;${data.location}</a></li>
                     <li class="nav-link"><a href="${data.html_url}" target="_blank"><i class="fab fa-github-alt"></i>&nbsp;Github</a></li>
